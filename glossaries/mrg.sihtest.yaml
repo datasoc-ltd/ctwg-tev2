@@ -1,0 +1,40 @@
+---
+terminology:
+  scopetag: "sihtev2"
+  scopedir: "https://github.com/datasoc-ltd/ctwg-tev2/tree/master"
+scopes:
+- scopetags:
+  - "ctwg"
+  - "sih-ctwg"
+  scopedir: "https://github.com/datasoc-ltd/ctwg-tev2"
+entries:
+- id: "test1"
+  termtype: "concept"
+  termid: "test1"
+  formphrases: "test1{ss}"
+  status: "proposed"
+  grouptags: null
+  created: "2022-07-29"
+  updated: "2022-08-01"
+  vsntag: "v0.1"
+  commit: null
+  contributors: "sih"
+  headingids: []
+  locator: "definition.md"
+  navurl: "To be definedT"
+  scopetag: "sihtev2"
+- id: "test2"
+  termtype: "concept"
+  termid: "test2"
+  formphrases: "test2{ss}"
+  status: "proposed"
+  grouptags: null
+  created: "2022-08-01"
+  updated: "2022-07-01"
+  vsntag: "v0.1"
+  commit: null
+  contributors: "sih"
+  headingids: []
+  locator: "definition.md"
+  navurl: "To be definedT"
+  scopetag: "sihtev2"
